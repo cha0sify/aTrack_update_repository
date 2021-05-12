@@ -1,2 +1,9 @@
-sample changelog:
-sample content
+2.5b -> 2.6b:
+
+Allgemeine Codeoptimierungen
+Fehlerbehebungen im API request und anpassungen für APIv5
+Fehlerbehebungen in der Benutzeroberfläche
+Optimierung der Farben in der Benutzeroberfläche
+Serverseitige optimierungen der Updatefunktion (alpha)
+Neue Funktione zum anzeigen der XBOX-Live Profilbilder (alpha)
+Generelle Bugfixes
