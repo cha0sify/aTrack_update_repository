@@ -6,4 +6,6 @@ Fehlerbehebungen in der Benutzeroberfläche
 Optimierung der Farben in der Benutzeroberfläche
 Serverseitige optimierungen der Updatefunktion (alpha)
 Neue Funktione zum anzeigen der XBOX-Live Profilbilder (alpha)
+Autovervollständigung für Profilsuche hinzugefügt
+Infotoasts für Battlepassanzeige hinzugefügt
 Generelle Bugfixes
