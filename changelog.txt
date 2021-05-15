@@ -7,6 +7,7 @@ Optimierung der Farben in der Benutzeroberfläche
 Serverseitige optimierungen der Updatefunktion (alpha)
 Neue Funktione zum anzeigen der XBOX-Live Profilbilder (alpha)
 Autovervollständigung für Profilsuche hinzugefügt
+Allgemeine Infotoasts fürs Statistik-Tracking hinzugefügt
 Infotoasts für Battlepassanzeige hinzugefügt
 OnClick Animation für für Hauptstatistiken hinzugefügt
 Generelle Bugfixes
